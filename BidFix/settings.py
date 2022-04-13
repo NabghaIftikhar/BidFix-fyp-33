@@ -27,9 +27,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'django-insecure-5pi8@ltq38n69yzsz#ljwmvm$(9c7@o=h4ntam$%pn0at*ycw5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["BidFix-fyp-33.herukoapp.com"]
 
 
 # Application definition
